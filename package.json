@@ -2,12 +2,12 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "",
-  "main": "./dist/app.js",
-  "type": "module",
+  "main": "./src/app.ts",
+  "type": "commonjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc",
-    "devStart": "nodemon app"
+    "devStart": "nodemon"
   },
   "author": "",
   "license": "ISC",

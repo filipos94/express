@@ -1,3 +1,3 @@
 import {userReg} from "../service/userRegService";
 
-app.get(.....);
+//app.get(.....);
